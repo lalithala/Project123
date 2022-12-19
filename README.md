@@ -24,6 +24,7 @@ This is a web based application developed for health related telugu based websit
 - Included the feedback Survey form to increase the scope of improvement 
 
 ## Screenshots
+![lalitha](https://user-images.githubusercontent.com/114738385/208388053-e8f87a6f-dae3-4dc1-a8b0-14851f46b6ac.png)
 
  
 ![HOME](https://user-images.githubusercontent.com/114738385/206972750-401f3b6c-bae8-4d03-974f-9888048e7449.jpg)
