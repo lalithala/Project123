@@ -24,32 +24,20 @@ This is a web based application developed for health related telugu based websit
 - Included the feedback Survey form to increase the scope of improvement 
 
 ## Screenshots
-![lalitha](https://user-images.githubusercontent.com/114738385/208388053-e8f87a6f-dae3-4dc1-a8b0-14851f46b6ac.png)
 
- 
-![HOME](https://user-images.githubusercontent.com/114738385/206972750-401f3b6c-bae8-4d03-974f-9888048e7449.jpg)
+## AZURE TECHNOLOGY SACREEN SHOTS 
+![AZURE HOME](https://user-images.githubusercontent.com/114738385/231425129-ed7d4c41-2151-4a4f-a5f5-f130a01e6d5f.png)
+![AZURE HEALTH BOT](https://user-images.githubusercontent.com/114738385/231425150-eb5dd67d-991e-4ff8-adda-7b1894e628f9.png)
+![AZURE3](https://user-images.githubusercontent.com/114738385/231425170-9a5228d6-625f-4d74-9779-dcf3ba2e9d86.png)
+## HEALTH BOT
+![HEALTHBOT1](https://user-images.githubusercontent.com/114738385/231425300-77194cfe-ed38-4e4a-b9f5-b17ebf09e77d.png)
+![HEALTHBOT2](https://user-images.githubusercontent.com/114738385/231425317-91fe8f72-e057-45a5-a3ce-57b3ef11046f.png)
+![HEALTHBOT3](https://user-images.githubusercontent.com/114738385/231425326-f7ca9b97-a85a-4f28-832e-40b4455e6160.png)
 
-![SERVICES](https://user-images.githubusercontent.com/114738385/206972762-26d4199c-b683-474e-978f-8188c02aae2c.jpg)
+## PROJECT SCREEN SHOTS
+![WEBSITE1](https://user-images.githubusercontent.com/114738385/231425200-677d5130-c139-49f5-918e-a68f4d5ffea5.png)
 
-   
-![MICROSOFT AZURE](https://user-images.githubusercontent.com/114738385/206972834-ee22712c-cc4c-481c-8535-8f8aabe4966c.jpg)
-
-### About Us -
-
-
-![HEALTHBOT](https://user-images.githubusercontent.com/114738385/206972823-6c97301c-4c2d-4fb6-9c76-c9dbdb095c6e.jpg)
-
-![ABOUT](https://user-images.githubusercontent.com/114738385/206972731-0fbebb23-d13e-4ae4-a0f3-013f73b8d421.jpg)
-
-
-
-### Privacy policy -
-
-
-![PROJECT1](https://user-images.githubusercontent.com/114738385/206972804-0df24a9a-47ea-4e30-a0b0-f2103d06d1ee.jpg)
-
-![GITHUB](https://user-images.githubusercontent.com/114738385/206972922-aa6d4873-2a2d-47b7-b9cc-8f661a51d71f.jpg)
-
+![WEBSITE2](https://user-images.githubusercontent.com/114738385/231425216-6b62e77c-3758-4e1c-89db-77a18b26b38c.png)
 
 ## Tech Stack 💻
 
