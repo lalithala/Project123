@@ -1,5 +1,5 @@
 
-# ✨ Glory Luxe  ✨
+# ✨ BEAUTY MAKES EVERYTHING POSSIBLE  ✨
 
 This is a web based application developed for health related telugu based website in india
 
@@ -7,7 +7,7 @@ This is a web based application developed for health related telugu based websit
 
 
 **Project Link** - https://red-stone-0f248be00.2.azurestaticapps.net/
-**Project demo video link**- https://youtu.be/tS0MvRnrcPk
+**Project demo video link**-
 
 **Azure technologies used for Project**
 
